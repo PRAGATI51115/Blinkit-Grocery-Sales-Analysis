@@ -19,7 +19,7 @@ Objective: Analyze the impact of fat content on total sales.
 Additional KPI Metrics: Assess how other KPIs(Average Sales, Number of Items, Average Rating) vary with fat content.
 Chart type: Donut Chart.
 
-2.Total Sales by Item Type:
+2. Total Sales by Item Type:
 Objective: Identify the performance of different item types in terms of total sales.
 Additional KPI Metrics: Assess how other KPI’s (Average Sales, Number of items, Average Rating) vary with fat content.
 Chart type: Bar Chart.
@@ -37,20 +37,24 @@ Chart Type: Line Chart.
 Objective: Analyze the correlation between outlet size and total sales.
 Chart Type: Donut/ Pie Chart
 
-6.Sales by Outlet Location:
+6. Sales by Outlet Location:
 Objective: Assess the geographic distribution of sales across different locations.
 Chart Type: Funnel Map.
 
-7.All Metrics by Outlet type:
+7. All Metrics by Outlet type:
 Objective: Provide a comprehensive view of all key metrics (Total Sales, Average sales, Number of Items, Average Rating) broken down by different outlet types.
 Chart Type: Matrix Card.
 
 ## Key Insights Delivered:
--> $1.20M in Total Sales tracked across outlet types and locations
--> Deep dive into Item Categories, Fat Content Preferences, and Outlet Performance
--> Tier-wise sales breakdown: Tier 3 leads with $472K+
--> Consistent Avg Rating of 3.9–4 across outlets
--> Dynamic filtering by Outlet Type, Size, and Item Type for targeted decision-making
+-> $1.20M in Total Sales tracked across outlet types and locations.
+
+-> Deep dive into Item Categories, Fat Content Preferences, and Outlet Performance.
+
+-> Tier-wise sales breakdown: Tier 3 leads with $472K+.
+
+-> Consistent Avg Rating of 3.9–4 across outlets.
+
+-> Dynamic filtering by Outlet Type, Size, and Item Type for targeted decision-making.
 
 ## Dashboard
 <img width="651" alt="BlinkIT" src="https://github.com/user-attachments/assets/92d5fc1f-4dbf-4346-ad11-3c96e6eb0eed" />
